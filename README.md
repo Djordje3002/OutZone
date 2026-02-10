@@ -1,4 +1,4 @@
-# OutZone
+## OutZone
 
 **Out of Comfort** is an interactive **iOS application built with SwiftUI** designed to help users step outside their **social comfort zone**, improve communication skills, and build confidence in everyday social situations.
 
