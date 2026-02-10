@@ -133,6 +133,10 @@ This app can be used in:
 
 ---
 
+## 📸 Screenshots
+
+<img src="Screenshot 2026-02-10 at 21.35.55.png" width="250">
+
 ## 🚀 Getting Started
 
 ### Requirements
