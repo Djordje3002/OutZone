@@ -20,12 +20,17 @@ The app focuses on **real-world applicability**, making self-improvement achieva
 
 ## 📸 Screenshots
 
-<img src="Screenshot1.png" width="250">
-<img src="Screenshot2.png" width="250">
-<img src="Screenshot3.png" width="250">
-<img src="Screenshot4.png" width="250">
-<img src="Screenshot5.png" width="250">
-<img src="Screenshot6.png" width="250">
+<p align="center">
+  <img src="Screenshot1.png" width="250">
+  <img src="Screenshot2.png" width="250">
+  <img src="Screenshot3.png" width="250">
+</p> 
+
+<p align="center">
+  <img src="Screenshot4.png" width="250">
+  <img src="Screenshot5.png" width="250">
+  <img src="Screenshot6.png" width="250">
+</p> 
 
 
 ## ✨ Key Features
