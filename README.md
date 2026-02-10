@@ -138,8 +138,3 @@ This app can be used in:
 ### Requirements
 - iOS 16+
 - Xcode 15+
-
-### Run the App
-```bash
-git clone https://github.com/yourusername/out-of-comfort.git
-open OutOfComfort.xcodeproj
