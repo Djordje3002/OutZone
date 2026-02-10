@@ -18,6 +18,15 @@ The app focuses on **real-world applicability**, making self-improvement achieva
 
 ---
 
+## 📸 Screenshots
+
+<img src="Screenshot1" width="250">
+<img src="Screenshot2" width="250">
+<img src="Screenshot3" width="250">
+<img src="Screenshot4" width="250">
+<img src="Screenshot5" width="250">
+<img src="Screenshot6" width="250">
+
 ## ✨ Key Features
 
 ### 🎯 Social Challenges
@@ -132,10 +141,6 @@ This app can be used in:
 - Therapy and coaching support tools
 
 ---
-
-## 📸 Screenshots
-
-<img src="Screenshot 2026-02-10 at 21.35.55.png" width="250">
 
 ## 🚀 Getting Started
 
