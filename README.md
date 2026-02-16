@@ -22,7 +22,7 @@ The app focuses on **real-world applicability**, making self-improvement achieva
 
 This video shows the main features of the app, including onboarding, core functionality, and UI flow.
 
-Watch here: https://vimeo.com/1165220091?share=copy&fl=sv&fe=ci
+Watch here: https://vimeo.com/1165207740?share=copy&fl=sv&fe=ci
 
 
 ## 📸 Screenshots
